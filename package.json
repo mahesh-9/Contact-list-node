@@ -1,0 +1,19 @@
+{
+  "name": "contacts-node-mysql-app",
+  "version": "1.0.0",
+  "description": "SQL programming project involves a web app that interfaces with sql database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahesh-9/Contact-list-node.git"
+  },
+  "author": "Uma Mahesh Oruganti <umamahesh.oruganti@utdallas.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahesh-9/Contact-list-node/issues"
+  },
+  "homepage": "https://github.com/mahesh-9/Contact-list-node#readme"
+}
